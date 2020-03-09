@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://lsdlab@gitlab.com/lsdlab/breakwire_xyz.git"
   },
-  "author": "Chen Jian (lsdvincent@gmail.com)",
+  "author": "Chen Jian (vincent.c@dangann.com)",
   "homepage": "https://lsdlab@gitlab.com/lsdlab/breakwire_xyz.git",
   "devDependencies": {
     "browser-sync": "^2.18.8",
